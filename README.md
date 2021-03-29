@@ -19,7 +19,7 @@ Or maybe you just want to [connect on LinkedIn](https://www.linkedin.com/in/oliv
 
 ## Experience
 ### Secureworks • Software Engineer • May 2019-Current
-* Backend API developer using Go, GraphQL, Kubernetes to develop micro services for our RedCloak SaaS offering.
+* Backend API developer using Go, GraphQL, Kubernetes to develop micro services for our [Taegis XDR SaaS offering](https://docs.ctpx.secureworks.com/at_a_glance/).
 * Follow and promote clean code practices, code reviews, unit testing, and documentation.
 * Regularly develop and integrate with 3rd party services and APIs (DataDog, Salesforce, AWS, etc).
 * Developed internal accountability tools.
@@ -27,8 +27,8 @@ Or maybe you just want to [connect on LinkedIn](https://www.linkedin.com/in/oliv
     * Generated reports for DataDog that track monitor/alerts and their metadata (meant to track which monitors are missing outage runbooks links).
     * Generated reports for open PRs, aggregating data on PR age, contributors, and recent activity (meant to track PRs at risk of getting stale).
 * Additional past work includes:
-    * Developing back end API logic for application 'incident response' times.
-    * Refactoring REST endpoints to be GraphQL endpoints on several high traffic APIs. Thoughtful refactoring resulted in significantly reduced response times for many endpoints through the use of selective and eager/lazy loaded data.
+    * [Developing back end API logic for product's 'incident response' times](https://docs.ctpx.secureworks.com/dashboard/response_time/) (meant to showcase our product's impact on the timeliness of event handling).
+    * Refactoring REST endpoints to be GraphQL endpoints on [several high traffic APIs](https://docs.ctpx.secureworks.com/apis/using_collector_api/). Thoughtful refactoring resulted in significantly reduced response times for many endpoints through the use of selective and eager/lazy loaded data.
 
 ### IBM Cloud • Software Engineer • May 2018-May 2019
 * Worked daily with clients as a 'solutions engineer' to onboard their products onto IBM Cloud.
