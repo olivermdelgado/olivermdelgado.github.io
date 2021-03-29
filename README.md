@@ -27,7 +27,7 @@ Or maybe you just want to [connect on LinkedIn](https://www.linkedin.com/in/oliv
     * Generated reports for DataDog that track monitor/alerts and their metadata (meant to track which monitors are missing outage runbooks links).
     * Generated reports for open PRs, aggregating data on PR age, contributors, and recent activity (meant to track PRs at risk of getting stale).
 * Additional past work includes:
-    * [Developing back end API logic for product's 'incident response' times](https://docs.ctpx.secureworks.com/dashboard/response_time/) (meant to showcase our product's impact on the timeliness of event handling).
+    * [Developing back end API logic for our product's 'incident response' times](https://docs.ctpx.secureworks.com/dashboard/response_time/) (meant to showcase our product's impact on the timeliness of event handling).
     * Refactoring REST endpoints to be GraphQL endpoints on [several high traffic APIs](https://docs.ctpx.secureworks.com/apis/using_collector_api/). Thoughtful refactoring resulted in significantly reduced response times for many endpoints through the use of selective and eager/lazy loaded data.
 
 ### IBM Cloud • Software Engineer • May 2018-May 2019
