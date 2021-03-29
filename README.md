@@ -72,14 +72,6 @@ Or maybe you just want to [connect on LinkedIn](https://www.linkedin.com/in/oliv
 * An API that tracks 'login' attempts and flags a login as 'suspicious' based on IP geolocation, duration lengths between subsequent logins, etc.  
 * **Technologies used:** Go, Docker, SQL
 
-### Pandora:Spotify 'Liked Songs' Synchronization
-* A script to migrate 'liked' songs from Pandora to a given Spotify playlist.
-* **Technologies used:** Python, Pandora API, Spotify API
-
-### Mattermost custom emoji upload bot
-* A script to bulk add custom emojis to your Slack/Mattermost organization.
-* **Technologies used:** Go, Mattermost API
-
 * * *
 
 ## Skills
