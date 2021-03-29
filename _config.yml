@@ -1,1 +1,10 @@
-theme: jekyll-theme-minimal
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+theme: jekyll-theme-tactile
+title: Oliver Delgado
+description: My quick and dirty portfolio :-)
