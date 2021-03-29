@@ -20,7 +20,7 @@ Or maybe you just want to [connect on LinkedIn](https://www.linkedin.com/in/oliv
 ## Experience
 ### Secureworks • Software Engineer • May 2019-Current
 * Backend API developer using Go, GraphQL, Kubernetes to develop micro services for our [Taegis XDR SaaS offering](https://docs.ctpx.secureworks.com/at_a_glance/).
-* Follow and promote clean code practices, code reviews, unit testing, and documentation.
+* Advocate and promote clean code practices, code reviews, unit testing, and documentation.
 * Regularly develop and integrate with 3rd party services and APIs (DataDog, Salesforce, AWS, etc).
 * Developed internal accountability tools.
     * Architected and developed an 'open source compliance' CICD tool to ensure proper license usage in our 3rd party dependencies.
