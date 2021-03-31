@@ -3,7 +3,6 @@
 **Hi, my name is Oliver. 👋**
 
 **I work as a back end developer for Secureworks in the San Francisco Bay Area.**
-(I'm very obviously _**not**_ a front-end guy, as you can probably tell from this website..)
 
 **Outside of work, I'm a computer/tech geek, an avid basketball fan, and an outdoor enthusiast who enjoys mountain biking, hiking, and rock climbing.**
 
@@ -19,16 +18,16 @@ Or maybe you just want to [connect on LinkedIn](https://www.linkedin.com/in/oliv
 
 ## Experience
 ### Secureworks • Software Engineer • May 2019-Current
-* Backend API developer using Go, GraphQL, Kubernetes to develop micro services for our [Taegis XDR SaaS offering](https://docs.ctpx.secureworks.com/at_a_glance/).
+* Backend API developer using Go, GraphQL, and Kubernetes to develop micro services for our [Taegis XDR SaaS offering](https://docs.ctpx.secureworks.com/at_a_glance/).
 * Advocate and promote clean code practices, code reviews, unit testing, and documentation.
 * Regularly develop and integrate with 3rd party services and APIs (DataDog, Salesforce, AWS, etc).
 * Developed internal accountability tools.
     * Architected and developed an 'open source compliance' CICD tool to ensure proper license usage in our 3rd party dependencies.
-    * Generated reports for DataDog that track monitor/alerts and their metadata (meant to track which monitors are missing outage runbooks links).
+    * Generated reports for DataDog that track monitors/alerts and their metadata (meant to track which monitors are missing outage runbooks links).
     * Generated reports for open PRs, aggregating data on PR age, contributors, and recent activity (meant to track PRs at risk of getting stale).
 * Additional past work includes:
-    * [Developing back end API logic for our product's 'incident response' times](https://docs.ctpx.secureworks.com/dashboard/response_time/) (meant to showcase our product's impact on the timeliness of event handling).
-    * Refactoring REST endpoints to be GraphQL endpoints on [several high traffic APIs](https://docs.ctpx.secureworks.com/apis/using_collector_api/). Thoughtful refactoring resulted in significantly reduced response times for many endpoints through the use of selective and eager/lazy loaded data.
+    * [Developed back end API logic for our product's 'incident response' times](https://docs.ctpx.secureworks.com/dashboard/response_time/) (meant to showcase our product's impact on the timeliness of event handling).
+    * Refactored REST endpoints to be GraphQL endpoints on [several high traffic APIs](https://docs.ctpx.secureworks.com/apis/using_collector_api/). Thoughtful refactoring resulted in significantly reduced response times for many endpoints through the use of selective and eager/lazy loaded data.
 
 ### IBM Cloud • Software Engineer • May 2018-May 2019
 * Worked daily with clients as a 'solutions engineer' to onboard their products onto IBM Cloud.
@@ -48,7 +47,7 @@ Or maybe you just want to [connect on LinkedIn](https://www.linkedin.com/in/oliv
 * Prototyped native Android analytic integration leveraging the New Relic Analytics SDK to gather critical Android application data from Verse app and visualized that data via New Relic analytic cloud queries. 
 
 ### Texas A&M University • Undergraduate Research Assistant • Aug 2016-May 2017
-* Supervised by Dr. Bryan Rasmussen, I participated in an effort to promote light energy efficiency by automating the energy audit process. 
+* I participated in an research effort to promote light energy efficiency by automating the energy audit process under the supervision of Dr. Bryan Rasmussen. 
 * Developed Python and C++ programs using Open_CV image recognition libraries to identify light type, shape, and placement. Data was used in tandem with odometry readings to map light locations onto a generated floor plan. 
 * Led software team and cross-collaborated with several other undergraduate students on a multidisciplinary engineering team to develop an autonomous robot capable of analyzing and processing the light data in a room.
  
@@ -64,7 +63,7 @@ Or maybe you just want to [connect on LinkedIn](https://www.linkedin.com/in/oliv
 * **Technologies used:** Go, Docker, Redis, PostgresQL
 	
 ### Reddit post tracker
-* A script that sends you a Telegram update when certain keywords are matched in a new post for a given subreddit.
+* A script that sends you a notification when certain keywords are matched in a new post for a given subreddit.
 * **Technologies used:** Go, Docker, Reddit API, Telegram API
 
 ### Suspicious login detection API (coding challenge)
