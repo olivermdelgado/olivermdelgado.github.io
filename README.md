@@ -63,7 +63,7 @@ Or maybe you just want to [connect on LinkedIn](https://www.linkedin.com/in/oliv
 * **Technologies used:** Go, Docker, Redis, PostgresQL
 	
 ### Reddit post tracker
-* A script that sends you a notification when certain keywords are matched in a new post for a given subreddit.
+* A script that sends a notification when certain keywords are matched in a new post for a given subreddit.
 * **Technologies used:** Go, Docker, Reddit API, Telegram API
 
 ### Suspicious login detection API (coding challenge)
