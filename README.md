@@ -58,11 +58,11 @@ Or maybe you just want to [connect on LinkedIn](https://www.linkedin.com/in/oliv
 
 **In the meantime, below are some of my favorite side projects:**
 
-### URL Shortener with click-through tracking
+### [URL Shortener with click-through tracking](https://github.com/olivermdelgado/shorty_url)
 * An API that converts a URL to a 'short link' URL to send to friends. Additionally, it determines when and how many times the link was clicked. Using request metadata, it can attempt to determine unique clicks.
 * **Technologies used:** Go, Docker, Redis, PostgresQL
 	
-### Reddit post tracker
+### [Reddit post tracker](https://github.com/olivermdelgado/scanny)
 * A script that sends a notification when certain keywords are matched in a new post for a given subreddit.
 * **Technologies used:** Go, Docker, Reddit API, Telegram API
 
